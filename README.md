@@ -266,119 +266,120 @@ Islington offers substantial support for working mothers through a combination o
 
 Sources
 
-[1] Free early learning for children of working parents https://www.islington.gov.uk/children-and-families/help-with-childcare-and-family-costs/free-early-learning/free-early-learning-for-children-of-working-parents
+Here’s the converted list with proper markdown link formatting:
 
-[2] Free Childcare for Working Parents: When to apply https://www.gov.uk/free-childcare-if-working/when-to-apply
+[1] [Free early learning for children of working parents](https://www.islington.gov.uk/children-and-families/help-with-childcare-and-family-costs/free-early-learning/free-early-learning-for-children-of-working-parents)
 
-[3] Apply for 30 hours childcare - Best Start in ... https://beststartinlife.gov.uk/childcare-early-years-education/15-and-30-hours-support/working-families/how-to-apply/
+[2] [Free Childcare for Working Parents: When to apply](https://www.gov.uk/free-childcare-if-working/when-to-apply)
 
-[4] Universal Credit rule change to help more working parents get help with childcare costs https://www.thesun.co.uk/money/37537137/universal-credit-working-parents-childcare/
+[3] [Apply for 30 hours childcare - Best Start in …](https://beststartinlife.gov.uk/childcare-early-years-education/15-and-30-hours-support/working-families/how-to-apply/)
 
-[5] Free early learning and childcare for 2-year-olds https://www.islington.gov.uk/children-and-families/help-with-childcare-and-family-costs/free-early-learning/free-early-learning-for-2-year-olds
+[4] [Universal Credit rule change to help more working parents get help with childcare costs](https://www.thesun.co.uk/money/37537137/universal-credit-working-parents-childcare/)
 
-[6] Tax-free childcare - NRPF Network https://www.nrpfnetwork.org.uk/information-and-resources/rights-and-entitlements/services-for-children-and-families/early-education-and-childcare/tax-free-childcare
+[5] [Free early learning and childcare for 2-year-olds](https://www.islington.gov.uk/children-and-families/help-with-childcare-and-family-costs/free-early-learning/free-early-learning-for-2-year-olds)
 
-[7] Get Tax-Free Childcare: step by step - GOV.UK https://www.gov.uk/tax-free-childcare
+[6] [Tax-free childcare - NRPF Network](https://www.nrpfnetwork.org.uk/information-and-resources/rights-and-entitlements/services-for-children-and-families/early-education-and-childcare/tax-free-childcare)
 
-[8] Tax-Free Childcare - frequently asked questions https://beststartinlife.gov.uk/childcare-early-years-education/tax-free-childcare/faq/
+[7] [Get Tax-Free Childcare: step by step - GOV.UK](https://www.gov.uk/tax-free-childcare)
 
-[9] Child Benefit 2026 | Eligibility, rates, high income charge https://www.daynurseries.co.uk/advice/child-benefit-rates-and-how-to-claim
+[8] [Tax-Free Childcare - frequently asked questions](https://beststartinlife.gov.uk/childcare-early-years-education/tax-free-childcare/faq/)
 
-[10] Child Benefit, Guardian's Allowance and tax credits https://www.gov.uk/government/publications/rates-and-allowances-tax-credits-child-benefit-and-guardians-allowance/tax-credits-child-benefit-and-guardians-allowance
+[9] [Child Benefit 2026 | Eligibility, rates, high income charge](https://www.daynurseries.co.uk/advice/child-benefit-rates-and-how-to-claim)
 
-[11] High Income Child Benefit Charge: Overview https://www.gov.uk/child-benefit-tax-charge
+[10] [Child Benefit, Guardian’s Allowance and tax credits](https://www.gov.uk/government/publications/rates-and-allowances-tax-credits-child-benefit-and-guardians-allowance/tax-credits-child-benefit-and-guardians-allowance)
 
-[12] High income child benefit | MSE https://www.moneysavingexpert.com/family/high-income-child-benefit/
+[11] [High Income Child Benefit Charge: Overview](https://www.gov.uk/child-benefit-tax-charge)
 
-[13] Childcare Costs and Universal Credit https://workingfamilies.org.uk/articles/childcare-costs-and-universal-credit/
+[12] [High income child benefit | MSE](https://www.moneysavingexpert.com/family/high-income-child-benefit/)
 
-[14] Universal Credit childcare costs - GOV.UKwww.gov.uk › Welfare › Benefits for families https://www.gov.uk/guidance/universal-credit-childcare-costs
+[13] [Childcare Costs and Universal Credit](https://workingfamilies.org.uk/articles/childcare-costs-and-universal-credit/)
 
-[15] Universal Credit childcare element | How to claim for all your children https://www.daynurseries.co.uk/advice/how-can-i-claim-the-childcare-element-of-universal-credit
+[14] [Universal Credit childcare costs - GOV.UKwww.gov.uk › Welfare › Benefits for families](https://www.gov.uk/guidance/universal-credit-childcare-costs)
 
-[16] Find childcare and early education https://www.islington.gov.uk/children-and-families/childcare-and-early-education/find-childcare
+[15] [Universal Credit childcare element | How to claim for all your children](https://www.daynurseries.co.uk/advice/how-can-i-claim-the-childcare-element-of-universal-credit)
 
-[17] Admissions to Islington council-managed nurseries https://www.islington.gov.uk/children-and-families/childcare-and-early-education/lbi-managed-nurseries/admissions
+[16] [Find childcare and early education](https://www.islington.gov.uk/children-and-families/childcare-and-early-education/find-childcare)
 
-[18] The Best Nurseries In Islington | Ratings and Reviews https://www.locrating.com/the-best-nurseries-in-Islington_London_England.aspx
+[17] [Admissions to Islington council-managed nurseries](https://www.islington.gov.uk/children-and-families/childcare-and-early-education/lbi-managed-nurseries/admissions)
 
-[19] List of nurseries, schools, childminders and playgroups https://www.islington.gov.uk/~/media/sharepoint-lists/public-records/childrenandfamiliesservices/information/leaflets/20152016/201506042yoproviderlistbypostcode4june2015
+[18] [The Best Nurseries In Islington | Ratings and Reviews](https://www.locrating.com/the-best-nurseries-in-Islington_London_England.aspx)
 
-[20] Start for Life, children's centres and family hubs https://www.islington.gov.uk/children-and-families/bright-start-islington-start-for-life-and-family-hubs
+[19] [List of nurseries, schools, childminders and playgroups](https://www.islington.gov.uk/~/media/sharepoint-lists/public-records/childrenandfamiliesservices/information/leaflets/20152016/201506042yoproviderlistbypostcode4june2015)
 
-[21] Home-Start Camden & Islington https://homestartcamdenandislington.org.uk
+[20] [Start for Life, children’s centres and family hubs](https://www.islington.gov.uk/children-and-families/bright-start-islington-start-for-life-and-family-hubs)
 
-[22] Council Tax Support Scheme continues for those most in ... https://www.islington.media/news/council-tax-support-scheme-continues-for-those-most-in-need
+[21] [Home-Start Camden & Islington](https://homestartcamdenandislington.org.uk)
 
-[23] Budget Consultation 2026/2027 | Let's Talk Islington https://www.letstalk.islington.gov.uk/budget-consultation-2026-2027
+[22] [Council Tax Support Scheme continues for those most in …](https://www.islington.media/news/council-tax-support-scheme-continues-for-those-most-in-need)
 
-[24] Subject: The Council Tax Support Scheme for 2026/27 https://islington.moderngov.co.uk/mgConvert2PDF.aspx?ID=43503
+[23] [Budget Consultation 2026/2027 | Let’s Talk Islington](https://www.letstalk.islington.gov.uk/budget-consultation-2026-2027)
 
-[25] Household Support Fund https://www.islington.gov.uk/benefits-and-support/cost-of-living-support/household-support-fund
+[24] [Subject: The Council Tax Support Scheme for 2026/27](https://islington.moderngov.co.uk/mgConvert2PDF.aspx?ID=43503)
 
-[26] Free Childcare for Working Parents: Apply ... https://www.gov.uk/free-childcare-if-working/apply-for-free-childcare-if-youre-working
+[25] [Household Support Fund](https://www.islington.gov.uk/benefits-and-support/cost-of-living-support/household-support-fund)
 
-[27] Yerbury Primary School | Admissions https://yerbury.islington.sch.uk/our-school/about-yerbury/admissions/
+[26] [Free Childcare for Working Parents: Apply …](https://www.gov.uk/free-childcare-if-working/apply-for-free-childcare-if-youre-working)
 
-[28] Kindred Islington | Nursery & Preschool Near Essex Road ... https://kindrednurseries.co.uk/our-nurseries/kindred-islington
+[27] [Yerbury Primary School | Admissions](https://yerbury.islington.sch.uk/our-school/about-yerbury/admissions/)
 
-[29] Early Years Charging Policy September 2025 https://www.islington.gov.uk/~/media/sharepoint-lists/public-records/childrenandfamiliesservices/information/leaflets/20252026/islington-early-years-charging-policy-september-2025.pdf
+[28] [Kindred Islington | Nursery & Preschool Near Essex Road …](https://kindrednurseries.co.uk/our-nurseries/kindred-islington)
 
-[30] Tax-Free Childcare vs Child Benefit: What's Best for Your Family? https://www.calculatemysalary.co.uk/blog/2025-06-12-tax-free-childcare-vs-child-benefit
+[29] [Early Years Charging Policy September 2025](https://www.islington.gov.uk/~/media/sharepoint-lists/public-records/childrenandfamiliesservices/information/leaflets/20252026/islington-early-years-charging-policy-september-2025.pdf)
 
-[31] Drop-In Service | Montessori Nursery Islington https://www.hopesanddreams.co.uk/visit/drop-in-service/
+[30] [Tax-Free Childcare vs Child Benefit: What’s Best for Your Family?](https://www.calculatemysalary.co.uk/blog/2025-06-12-tax-free-childcare-vs-child-benefit)
 
-[32] Free early learning and childcare https://www.islington.gov.uk/children-and-families/help-with-childcare-and-family-costs/free-early-learning
+[31] [Drop-In Service | Montessori Nursery Islington](https://www.hopesanddreams.co.uk/visit/drop-in-service/)
 
-[33] Islington — Newpark Childcare https://www.newparkchildcare.co.uk/islington
+[32] [Free early learning and childcare](https://www.islington.gov.uk/children-and-families/help-with-childcare-and-family-costs/free-early-learning)
 
-[34] 15 and 30 hours funding https://www.islington.gov.uk/children-and-families/childcare-and-early-education/early-years-and-childcare-professionals/early-years-funding/15-and-30-hours-funding
+[33] [Islington — Newpark Childcare](https://www.newparkchildcare.co.uk/islington)
 
-[35] Tax-free childcare https://www.litrg.org.uk/benefits/childcare/tax-free-childcare
+[34] [15 and 30 hours funding](https://www.islington.gov.uk/children-and-families/childcare-and-early-education/early-years-and-childcare-professionals/early-years-funding/15-and-30-hours-funding)
 
-[36] Bright Start Family Support - NCL ICB General Practice Website https://gps.northcentrallondon.icb.nhs.uk/services/bright-start-family-support
+[35] [Tax-free childcare](https://www.litrg.org.uk/benefits/childcare/tax-free-childcare)
 
-[37] Bright Start Health Visiting Services Islington (print version) https://www.whittington.nhs.uk/default.asp?c=40906&print=1
+[36] [Bright Start Family Support - NCL ICB General Practice Website](https://gps.northcentrallondon.icb.nhs.uk/services/bright-start-family-support)
 
-[38] Universal Credit if you have children https://www.gov.uk/guidance/universal-credit-if-you-have-children
+[37] [Bright Start Health Visiting Services Islington (print version)](https://www.whittington.nhs.uk/default.asp?c=40906&print=1)
 
-[39] High Income Child Benefit Charge – an update https://www.thepfs.org/news-insight/news/articles/high-income-child-benefit-charge-an-update/44ff5b2b-236e-46ac-af10-121699326cf1
+[38] [Universal Credit if you have children](https://www.gov.uk/guidance/universal-credit-if-you-have-children)
 
-[40] Subject: Start for Life Programme update https://islington.moderngov.co.uk/mgConvert2PDF.aspx?ID=43185
+[39] [High Income Child Benefit Charge – an update](https://www.thepfs.org/news-insight/news/articles/high-income-child-benefit-charge-an-update/44ff5b2b-236e-46ac-af10-121699326cf1)
 
-[41] Admissions https://margaretmcmillan.islington.sch.uk/admissions/
+[40] [Subject: Start for Life Programme update](https://islington.moderngov.co.uk/mgConvert2PDF.aspx?ID=43185)
 
-[42] Ofsted Registered Childminders in Islington https://www.childcare.co.uk/search/Childminders/Islington/Ofsted-Registered
+[41] [Admissions](https://margaretmcmillan.islington.sch.uk/admissions/)
 
-[43] Islington Community Schools Admission Arrangements ... https://www.islington.gov.uk/~/media/sharepoint-lists/public-records/educationandskills/information/adviceandinformation/20262027/islington-community-school-determined-admission-arrangements-202627.pdf
+[42] [Ofsted Registered Childminders in Islington](https://www.childcare.co.uk/search/Childminders/Islington/Ofsted-Registered)
 
-[44] Working Parent Entitlement for 3 and 4 year olds (30 hours) https://www.kent.gov.uk/education-and-children/childcare-and-pre-school/help-with-childcare-costs/working-parent-entitlement-for-3-and-4-year-olds-30-hours
+[43] [Islington Community Schools Admission Arrangements …](https://www.islington.gov.uk/~/media/sharepoint-lists/public-records/educationandskills/information/adviceandinformation/20262027/islington-community-school-determined-admission-arrangements-202627.pdf)
 
-[45] PPCC Nursery (0-5) https://islingtonplay.org.uk/take-part/services/ppcc-nursery/
+[44] [Working Parent Entitlement for 3 and 4 year olds (30 hours)](https://www.kent.gov.uk/education-and-children/childcare-and-pre-school/help-with-childcare-costs/working-parent-entitlement-for-3-and-4-year-olds-30-hours)
 
-[46] Search - Find an Inspection Report - Ofsted https://reports.ofsted.gov.uk/search?location=Islington%2C+London%2C+UK&lat=51.538621&lon=-0.1028346&radius=3&local_authority%5B0%5D=206&status%5B0%5D=1&start=120&rows=10&sort=distance&order=asc
+[45] [PPCC Nursery (0-5)](https://islingtonplay.org.uk/take-part/services/ppcc-nursery/)
 
-[47] Funded childcare for working families https://www.telford.gov.uk/children-and-young-people/nurseries-and-childcare/funded-childcare-for-children-from-9-months-to-4-years-old/funded-childcare-for-working-families/
+[46] [Search - Find an Inspection Report - Ofsted](https://reports.ofsted.gov.uk/search?location=Islington%2C+London%2C+UK&lat=51.538621&lon=-0.1028346&radius=3&local_authority%5B0%5D=206&status%5B0%5D=1&start=120&rows=10&sort=distance&order=asc)
 
-[48] Ofsted Registered Childminders near N19 https://www.childcare.co.uk/search/Childminders/N19/3-miles/Ofsted-Registered
+[47] [Funded childcare for working families](https://www.telford.gov.uk/children-and-young-people/nurseries-and-childcare/funded-childcare-for-children-from-9-months-to-4-years-old/funded-childcare-for-working-families/)
 
-[49] Tax-Free Childcare Northampton https://www.cobdes.co.uk/factsheets/personal-tax/tax-free-childcare
+[48] [Ofsted Registered Childminders near N19](https://www.childcare.co.uk/search/Childminders/N19/3-miles/Ofsted-Registered)
 
-[50] Free Childcare for Working Parents: Check if you're eligible https://www.gov.uk/free-childcare-if-working/check-youre-eligible
+[49] [Tax-Free Childcare Northampton](https://www.cobdes.co.uk/factsheets/personal-tax/tax-free-childcare)
 
-[51] Tax-Free Childcare 2026: Eligibility and how does it work? https://www.daynurseries.co.uk/advice/tax-free-childcare-what-is-it-and-how-does-it-work
+[50] [Free Childcare for Working Parents: Check if you’re eligible](https://www.gov.uk/free-childcare-if-working/check-youre-eligible)
 
-[52] WTC2 A guide to Child Tax Credit and Working ... https://assets.publishing.service.gov.uk/media/6602c0ebf1d3a09b1f32acb0/WTC2.pdf
+[51] [Tax-Free Childcare 2026: Eligibility and how does it work?](https://www.daynurseries.co.uk/advice/tax-free-childcare-what-is-it-and-how-does-it-work)
 
-[53] People who live with you (non-dependants) https://www.islington.gov.uk/benefits-and-support/non-dependants
+[52] [WTC2 A guide to Child Tax Credit and Working …](https://assets.publishing.service.gov.uk/media/6602c0ebf1d3a09b1f32acb0/WTC2.pdf)
 
-[54] Tax-Free Childcare: Govt scheme gives up to £2000 per child https://www.moneysavingexpert.com/family/tax-free-childcare/
+[53] [People who live with you (non-dependants)](https://www.islington.gov.uk/benefits-and-support/non-dependants)
 
-[55] Eligibility for 30 hours childcare - Best Start in ... https://beststartinlife.gov.uk/childcare-early-years-education/15-and-30-hours-support/working-families/eligibility/
+[54] [Tax-Free Childcare: Govt scheme gives up to £2000 per child](https://www.moneysavingexpert.com/family/tax-free-childcare/)
 
-[56] Tax-Free Childcare https://workingfamilies.org.uk/articles/tax-free-childcare/
+[55] [Eligibility for 30 hours childcare - Best Start in …](https://beststartinlife.gov.uk/childcare-early-years-education/15-and-30-hours-support/working-families/eligibility/)
 
-[57] Free childcare: How we are tackling the cost of childcare https://educationhub.blog.gov.uk/2024/04/free-childcare-how-we-tackling-the-cost-of-childcare/
+[56] [Tax-Free Childcare](https://workingfamilies.org.uk/articles/tax-free-childcare/)
 
-[58] How to apply for 30 hours government funded childcare for ... https://educationhub.blog.gov.uk/2025/09/how-to-apply-for-30-hours-free-childcare-and-find-out-if-youre-eligible/
+[57] [Free childcare: How we are tackling the cost of childcare](https://educationhub.blog.gov.uk/2024/04/free-childcare-how-we-tackling-the-cost-of-childcare/)
 
+[58] [How to apply for 30 hours government funded childcare for …](https://educationhub.blog.gov.uk/2025/09/how-to-apply-for-30-hours-free-childcare-and-find-out-if-youre-eligible/)
