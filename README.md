@@ -267,7 +267,6 @@ Islington offers substantial support for working mothers through a combination o
 Sources
 
 [1] Free early learning for children of working parents https://www.islington.gov.uk/children-and-families/help-with-childcare-and-family-costs/free-early-learning/free-early-learning-for-children-of-working-parents
-
 [2] Free Childcare for Working Parents: When to apply https://www.gov.uk/free-childcare-if-working/when-to-apply
 [3] Apply for 30 hours childcare - Best Start in ... https://beststartinlife.gov.uk/childcare-early-years-education/15-and-30-hours-support/working-families/how-to-apply/
 [4] Universal Credit rule change to help more working parents get help with childcare costs https://www.thesun.co.uk/money/37537137/universal-credit-working-parents-childcare/
